@@ -39,7 +39,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<javaclient.version>7.3.0</javaclient.version>
-		<guava.version>29.0-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 		<commonscollections4.version>4.4</commonscollections4.version>
 		<extentreports.version>4.1.7</extentreports.version>
 		<testng.version>7.1.0</testng.version>
